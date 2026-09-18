@@ -229,4 +229,4 @@ BlackShot is the full free version with all features and updates included. There
 Get ready to dive into the action! Download **BlackShot** today and join the fight!
 
 ---
-**Last updated:** 2026-09-17 22:30:43 UTC
+**Last updated:** 2026-09-18 00:52:44 UTC
